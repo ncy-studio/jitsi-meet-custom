@@ -3,14 +3,12 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-orientation-locker</artifactId>
   <versioning>
-    <latest>1.6.0-jitsi-17051233</latest>
-    <release>1.6.0-jitsi-17051233</release>
+    <latest>1.6.0-jitsi-17063072</latest>
+    <release>1.6.0-jitsi-17063072</release>
     <versions>
-      <version>1.6.0-jitsi-17045590</version>
-      <version>1.6.0-jitsi-17045633</version>
-      <version>1.6.0-jitsi-17045663</version>
-      <version>1.6.0-jitsi-17051233</version>
+      <version>1.6.0-jitsi-17063037</version>
+      <version>1.6.0-jitsi-17063072</version>
     </versions>
-    <lastUpdated>20240527113216</lastUpdated>
+    <lastUpdated>20240528202525</lastUpdated>
   </versioning>
 </metadata>
